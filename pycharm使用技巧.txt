@@ -1,0 +1,15 @@
+# pycharm 使用技巧
+2021/9/26
+1.  若一行代码过长，想这一行全部选中可以鼠标“三击”
+2.  代码编辑区 .py文件打开的过多，可以随便选中一个，鼠标右键选择Close All Tabs，一次性全部关闭
+3.  pycharm如何开头自动添加头注释
+Settings-Editor-File and Code Templates-Python Script
+通用模板：
+# -*- coding: utf-8 -*-
+# @Time    : ${DATE} ${TIME}
+# @Author  : Zhipeng Shu
+# @File    : ${NAME}.py
+# @Software: ${PRODUCT_NAME}  
+
+4. Shift+Enter 快速切换到下一行
+5. 切换到行尾 End，因为End键太偏，不太方便，pycharm可以自定义快捷键，这里我设置的是shift + L 
